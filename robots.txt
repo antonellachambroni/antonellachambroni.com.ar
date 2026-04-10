@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://antonellachambroni.github.io/sitemap.xml
+Sitemap: https://www.antonellachambroni.com.ar/sitemap.xml
